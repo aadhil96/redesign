@@ -12,9 +12,4 @@ You have to design a one page website for Mozilla campus club of Rajarata univer
 
 2. HTML code you used from other websites, the page of your website the code is on, and a description of how you altered it.
 
-3. Your site must include: 
-        1.  adequate text-to-background contrast.
-	2.  easy-to-read font size.
-	3.  easily identifiable navigation with clear and concise labels.
-        4.  consistent styles and colors.
-        5.  text without spelling and grammar errors.
+3. Your site must include: adequate text-to-background contrast,  easy-to-read font size,  easily identifiable navigation with clear and concise labels,  consistent styles and colors,  text without spelling and grammar errors.
