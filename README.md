@@ -1,8 +1,9 @@
-![Untitled-2](https://user-images.githubusercontent.com/28821226/72818655-d8983680-3c91-11ea-9c54-ea1937a924c5.jpg)
+![Untitled-2](https://user-images.githubusercontent.com/28821226/72831728-67fd1400-3ca9-11ea-9f77-16fc1872e659.jpg)
+
 
 
 # Redesign
-## One page Webdesign Hackathon
+## One page Web design Hackathon
 
 You have to design a one page website for Mozilla campus club of Rajarata university of Sri Lanka
 
