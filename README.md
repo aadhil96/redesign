@@ -8,8 +8,20 @@ You have to design a one page website for Mozilla campus club of Rajarata univer
 
 # Rules and Regulations
 
-1. Design a simple on page website for mozilla campus club - RUSL
+1. Design a simple on page website for mozilla campus club - RUSL.
 
 2. HTML code you used from other websites, the page of your website the code is on, and a description of how you altered it.
 
 3. Your site must include: adequate text-to-background contrast,  easy-to-read font size,  easily identifiable navigation with clear and concise labels,  consistent styles and colors,  text without spelling and grammar errors.
+
+4.Home page must be named ”index” in its url. (Example: index.html).
+
+5.Any and all images that are visible on your site must be saved in your images folder and linked from there. Specifically, if any image that is visible on your site appears merely because you've linked to it on another site, your site will be disqualified from the competition.
+
+6.Submit your one page website as a compressed zip file to Submission form.
+
+##  Resources
+
+resources zip file  - Download 
+
+##  evaluated criteria
