@@ -38,5 +38,9 @@ resources zip file  - Download
 * Hackathon starts : 22 th of January 00:00 AM.
 * Hackathon ends : 12 th of february 00:00 AM (Submit your works via form).
 
+## Judges
 
+* milinda laknath arambawela - Apigate
+* Chamod Sandaru - Mozilla Sri Lanka
+* maleesha kumarage - Mozilla Sri Lanka
 
