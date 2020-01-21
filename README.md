@@ -40,7 +40,7 @@ resources zip file  - Download
 
 ## Judges
 
-* milinda laknath arambawela - Apigate
+* Milinda Laknath Arambawela - Apigate
 * Chamod Sandaru - Mozilla Sri Lanka
-* maleesha kumarage - Mozilla Sri Lanka
+* Maleesha Kumarage - Mozilla Sri Lanka
 
