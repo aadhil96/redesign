@@ -10,7 +10,7 @@ You have to design a one page website for Mozilla campus club of Rajarata univer
 
 1. Design a simple on page website for mozilla campus club - RUSL.
 
-2. HTML code you used from other websites, the page of your website the code is on, and a description of how you altered it.
+2. HTML/CSS code you used from other websites, the page of your website the code is on, and a description of how you altered it.
 
 3. Your site must include: adequate text-to-background contrast,  easy-to-read font size,  easily identifiable navigation with clear and concise labels,  consistent styles and colors,  text without spelling and grammar errors.
 
@@ -29,3 +29,14 @@ resources zip file  - Download
 * Design: appropriateness, ease of use, visual appeal
 * Content: quality and quantity of information; quality of writing and images
 * Technical: functionality, performance, interactive features
+
+## Winners
+3 Winners will be selected and the most creative web site.
+
+## Timeline
+
+* Hackathon starts : 22 th of January 00:00 AM.
+* Hackathon ends : 12 th of february 00:00 AM (Submit your works via form).
+
+
+
