@@ -6,7 +6,7 @@
 
 You have to design a one page website for Mozilla campus club of Rajarata university of Sri Lanka
 
-# Rules and Regulations
+## Rules and Regulations
 
 1. Design a simple on page website for mozilla campus club - RUSL.
 
@@ -18,13 +18,13 @@ You have to design a one page website for Mozilla campus club of Rajarata univer
 
 5. Any and all images that are visible on your site must be saved in your images folder and linked from there. Specifically, if any image that is visible on your site appears merely because you've linked to it on another site, your site will be disqualified from the competition.
 
-6. Submit your one page website as a compressed zip file to Submission form.
+6. Submit your one page website as a compressed zip file to [Submission](https://forms.gle/WZoKfCJ1D7qGPyhv5) form.
 
 ##  Resources
 
-resources zip file  - Download 
+resources zip file  - Download from [here](https://drive.google.com/open?id=1fv5m3uY5uvE3sq-6yh30Gkd_UQbbvJ8k)
 
-##  evaluating criteria
+##  Evaluating criteria
 
 * Design: appropriateness, ease of use, visual appeal
 * Content: quality and quantity of information; quality of writing and images
