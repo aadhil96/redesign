@@ -2,7 +2,7 @@
 
 
 # Redesign
-## One page webdesign hackathon
+## One page Webdesign Hackathon
 
 You have to design a one page website for Mozilla campus club of Rajarata university of Sri Lanka
 
