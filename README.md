@@ -1,4 +1,4 @@
-![cover](https://user-images.githubusercontent.com/28821226/72814579-4725c600-3c8b-11ea-83eb-6974726d9bd8.jpg)
+![Untitled-2](https://user-images.githubusercontent.com/28821226/72818655-d8983680-3c91-11ea-9c54-ea1937a924c5.jpg)
 
 
 # Redesign
